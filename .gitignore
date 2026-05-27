@@ -3,3 +3,10 @@
 
 # macOS
 .DS_Store
+
+# Compiled Java classes
+*.class
+
+# Package output folders created by javac -d .
+Monster_Paradigm/
+Project3_6480728/
