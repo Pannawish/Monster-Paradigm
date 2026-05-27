@@ -6,6 +6,20 @@ Java Swing desktop game project with two main screens:
 - `mainroom`: pet-care screen for feeding, petting, skin changes, and XP progression
 - `GameRoom`: mini-game where the monster catches good items and avoids bad items
 
+## Screenshots
+
+### Title Screen
+
+![Title screen](screenshots/title.png)
+
+### Main Room
+
+![Main room](screenshots/mainroom.png)
+
+### Game Room
+
+![Game room](screenshots/gameroom.png)
+
 ## Learning Objectives
 
 This project was developed to practice core Java programming through a small interactive game. The main learning goals were:
