@@ -10,15 +10,15 @@ Java Swing desktop game project with two main screens:
 
 ### Title Screen
 
-![Title screen](screenshots/title.png)
+<img src="screenshots/title.png" alt="Title screen" width="700">
 
 ### Main Room
 
-![Main room](screenshots/mainroom.png)
+<img src="screenshots/mainroom.png" alt="Main room" width="700">
 
 ### Game Room
 
-![Game room](screenshots/gameroom.png)
+<img src="screenshots/gameroom.png" alt="Game room" width="700">
 
 ## Learning Objectives
 
