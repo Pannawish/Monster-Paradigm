@@ -122,6 +122,12 @@ To run it in VS Code:
 - The UI was adjusted for better behavior in VS Code/macOS compared with the earlier NetBeans-oriented layout.
 - If old compiled folders such as `Project3_6480728/` still exist, they are stale build output from the previous package name and can be removed.
 
+## Disclaimer
+
+This project was created for educational purposes as part of a classroom assignment. It is not intended for commercial use or sale.
+
+Some visual and audio assets used in this project were collected from publicly available internet sources. All rights to those assets remain with their respective owners. If any asset should not be included, it can be removed or replaced upon request.
+
 ## Credits
 
 - Pannawish Kriengyakul
