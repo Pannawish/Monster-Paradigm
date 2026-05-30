@@ -1,4 +1,4 @@
-# 👾 Monster Paradigm
+# Monster Paradigm
 
 <div align="center">
 
@@ -10,34 +10,34 @@
 
 *Nurture your monster, customize its appearance, level it up through multiple forms, and challenge yourself in the Game Room mini-game!*
 
-[✨ Key Features](#-key-features) • [🎓 Learning Objectives](#-learning-objectives) • [📸 Screenshots](#-screenshots) • [🚀 Getting Started](#-getting-started) • [📂 Project Structure](#-project-structure) • [🎮 Gameplay Guide](#-gameplay-guide) • [👥 Contributors](#-contributors)
+[Key Features](#key-features) • [Learning Objectives](#learning-objectives) • [Screenshots](#screenshots) • [Getting Started](#getting-started) • [Project Structure](#project-structure) • [Gameplay Guide](#gameplay-guide) • [Contributors](#contributors)
 
 </div>
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-*   **🎮 Interactive Pet Care**:
+*   **Interactive Pet Care**:
     *   **Petting**: Directly interact with your monster to show affection and gain XP.
     *   **Grooming**: Keep your pet squeaky clean using the washing sponge tool.
     *   **Feeding**: Choose from different food types and control the portions to keep your pet satisfied.
-*   **🧬 Evolution & Progression**:
+*   **Evolution & Progression**:
     *   Earn XP through daily care and mini-games.
     *   Watch your monster evolve across **3 distinct levels** and change into larger, more advanced monster forms!
-*   **🎨 Customization**:
+*   **Customization**:
     *   Dynamic skin selector supporting **Red**, **Blue**, and **Green** skins with custom visual frames.
-*   **🕹️ Game Room Mini-Game**:
+*   **Game Room Mini-Game**:
     *   Control your monster with the keyboard arrow keys.
     *   Catch falling meat to rack up points while avoiding falling swords that penalize your score.
     *   Convert your final high score into XP to power up your pet in the Main Room!
-*   **🎵 Rich Sensory Experience**:
+*   **Rich Sensory Experience**:
     *   Immersive background loops (including custom titles and the mini-game theme *Megalovania*).
     *   Responsive audio effects for petting, feeding, bubble washes, level-ups, game wins, and getting hurt.
 
 ---
 
-## 🎓 Learning Objectives
+## Learning Objectives
 
 This project was developed to apply and consolidate foundational Java and GUI design principles:
 *   **Object-Oriented Programming (OOP)**: Designing cohesive models, state inheritance, and modular separation of screens.
@@ -48,19 +48,19 @@ This project was developed to apply and consolidate foundational Java and GUI de
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 <div align="center">
 
-### 🖥️ Title & Setup Screen
+### Title & Setup Screen
 *Name your companion and start the journey*
 <img src="screenshots/title.png" alt="Monster Paradigm Title Screen" width="750" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 20px;">
 
-### 🏠 Main Pet Care Room
+### Main Pet Care Room
 *Feed, pet, groom, and level up your monster*
 <img src="screenshots/mainroom.png" alt="Monster Paradigm Main Room" width="750" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 20px;">
 
-### ⚔️ Game Room Mini-Game
+### Game Room Mini-Game
 *Catch rewards, dodge swords, and farm XP*
 <img src="screenshots/gameroom.png" alt="Monster Paradigm Game Room" width="750" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
 
@@ -68,7 +68,7 @@ This project was developed to apply and consolidate foundational Java and GUI de
 
 ---
 
-## 🛠️ System Requirements
+## System Requirements
 
 | Requirement | Specification |
 | :--- | :--- |
@@ -81,7 +81,7 @@ This project was developed to apply and consolidate foundational Java and GUI de
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Quick Command Line Run
 Open a terminal in the project directory and run the following commands to compile and launch the game:
@@ -103,7 +103,7 @@ This project includes a pre-configured `.vscode/launch.json` for seamless runs.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 Monster-Paradigm/
@@ -120,7 +120,7 @@ Monster-Paradigm/
 └── .vscode/                    # IDE launch configurations
 ```
 
-### 📄 Class Breakdown
+### Class Breakdown
 
 *   **`Mainapplication`**: Handles the entry point (`main`), naming validation, instruction modal, credits screen, and launches the core application.
 *   **`mainroom`**: Manages the main pet simulator, rendering progress bars for XP and leveling, skin changes, mouse listeners for petting and washing tools, and UI buttons.
@@ -130,7 +130,7 @@ Monster-Paradigm/
 
 ---
 
-## 🎮 Gameplay Guide
+## Gameplay Guide
 
 ### Phase 1: Setup
 1. Click **`NAME MONSTER`**.
@@ -149,22 +149,22 @@ Monster-Paradigm/
 ### Phase 3: Mini-Game (Game Room)
 *   Press the **`START`** button to initiate the falling item loops.
 *   Use your keyboard's **`Left Arrow`** and **`Right Arrow`** keys to steer your monster across the bottom of the screen.
-*   🍖 **Catch Meat**: Earns points and increases your score.
-*   ⚔️ **Dodge Swords**: Reduces your points when hit.
+*   **Catch Meat**: Earns points and increases your score.
+*   **Dodge Swords**: Reduces your points when hit.
 *   Press **`QUIT`** to end the game loop, return to the main room, and automatically convert your mini-game score into XP for your pet!
 
 ---
 
-## 💡 Technical Notes
+## Technical Notes
 
 *   **Asset Management**: Sound effects and imagery are loaded relative to the runtime execution folder. Do not run the compiled program from outside the workspace root directory.
 *   **UI Layouts**: All screens have been fine-tuned and tested for macOS and Windows to prevent UI clipping issues.
 
 ---
 
-## 👥 Contributors
+## Contributors
 
-This project was built with ❤️ by:
+This project was built by:
 
 *   **Pannawish Kriengyakul**
 *   **Papon Suramanont**
@@ -175,7 +175,7 @@ This project was built with ❤️ by:
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 *This project was created strictly for educational purposes as part of a university programming course. It is not intended for commercial use or distribution.*
 
